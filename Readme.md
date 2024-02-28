@@ -22,14 +22,14 @@ Welcome to the YouTube + Twitter backend project! This project seamlessly integr
 - Registration, login, logout, password reset
 - Profile management (avatar, cover image, details)
 - Watch history tracking
-
+<!--
 ### Video Management:
 
 - Video upload and publishing
 - Video search, sorting, and pagination
 - Video editing and deletion
 - Visibility control (publish/unpublish)
-
+-->
 ### Tweet Management:
 
 - Tweet creation and publishing
@@ -40,7 +40,7 @@ Welcome to the YouTube + Twitter backend project! This project seamlessly integr
 
 - Subscribing to channels
 - Viewing subscriber and subscribed channel lists
-
+<!--
 ### Playlist Management:
 
 - Creating, updating, and deleting playlists
@@ -61,6 +61,7 @@ Welcome to the YouTube + Twitter backend project! This project seamlessly integr
 - Viewing channel statistics (views, subscribers, videos, likes)
 - Accessing uploaded videos
 
+-->
 ### Health Check:
 
 - Endpoint to verify the backend's health
