@@ -78,7 +78,7 @@ Welcome to the YouTube + Twitter backend project! This project seamlessly integr
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Hruthik-28/youtube-twitter.git
+    git clone https://github.com/0Rohit2022/TubeTweets.git
     ```
 
 2. **Install dependencies:**
