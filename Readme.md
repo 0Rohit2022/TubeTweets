@@ -84,7 +84,7 @@ Welcome to the YouTube + Twitter backend project! This project seamlessly integr
 2. **Install dependencies:**
 
     ```bash
-    cd youtube-twitter
+    cd TubeTweets
     npm install
     ```
 
